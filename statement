@@ -1,0 +1,65 @@
+_**1. PROBLEM STATEMENT**_
+Fake news is spreading rapidly through social media platforms like WhatsApp, Instagram, and online websites.
+It becomes difficult for users to identify whether a news article is real or fake.
+This leads to:
+Misinformation
+Panic in society
+Wrong decision-making
+There is a need for a simple automated system that can classify news content accurately.
+
+ Objective:
+
+To build a Machine Learning model that can detect fake news based on text input.
+
+
+2. SCOPE OF THE PROJECT
+Can be used for basic fake news detection
+Works on:
+a)Politics news
+b)Science news
+c)Social media rumors
+d)Can be extended to:
+e)Real-time news verification
+
+
+Integration with websites/apps
+Helps in:
+Learning NLP (Natural Language Processing)
+Understanding Machine Learning concepts
+
+ Limitations:
+
+Works on small dataset (not real-world scale)
+Accuracy depends on training data quality
+
+
+3. TARGET USERS
+a)Students (for learning AI/ML concepts)
+b)Social media users
+c)News readers
+d)Beginners in data science
+e)Teachers for demonstration purposes
+
+
+ 4. FEATURES OF THE PROJECT
+🔹 Core Features
+Accepts user input news text
+Classifies news as:
+✅ Real
+❌ Fake
+🔹 Machine Learning Features
+Uses TF-IDF Vectorization
+Uses Multinomial Naive Bayes algorithm
+Trained on multi-domain dataset
+🔹 Data Processing Features
+Converts text to lowercase
+Removes punctuation
+Removes stopwords (like “is”, “the”)
+🔹 Performance Features
+Displays model accuracy
+Handles unseen input data
+Fast prediction
+🔹 User Interaction Features
+Interactive console-based system
+Continuous input until user exits
+Simple and beginner-friendly
