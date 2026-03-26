@@ -210,3 +210,8 @@ It is a beginner AI/ML project.
 ## If you like this project
 
 Give it a star. Keep learning about AI.
+
+**License**_
+
+ 
+ Free to use and modify for personal 
