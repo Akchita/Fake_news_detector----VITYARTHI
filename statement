@@ -1,65 +1,102 @@
-_**1. PROBLEM STATEMENT**_
-Fake news is spreading rapidly through social media platforms like WhatsApp, Instagram, and online websites.
-It becomes difficult for users to identify whether a news article is real or fake.
+# 📰 Fake News Detector
+
+##  Problem Statement
+
+Fake news is spreading rapidly through social media platforms such as WhatsApp, Instagram, and various online websites. It has become increasingly difficult for users to identify whether a news article is **real or fake**.
+
 This leads to:
-Misinformation
-Panic in society
-Wrong decision-making
-There is a need for a simple automated system that can classify news content accurately.
 
- Objective:
+* Misinformation
+* Panic in society
+* Wrong decision-making
 
-To build a Machine Learning model that can detect fake news based on text input.
+There is a need for a **simple automated system** that can accurately classify news content.
 
+###  Objective
 
-2. SCOPE OF THE PROJECT
-Can be used for basic fake news detection
-Works on:
-a)Politics news
-b)Science news
-c)Social media rumors
-d)Can be extended to:
-e)Real-time news verification
+To build a Machine Learning model that can **detect fake news based on text input**.
 
+---
 
-Integration with websites/apps
-Helps in:
-Learning NLP (Natural Language Processing)
-Understanding Machine Learning concepts
+##  Scope of the Project
 
- Limitations:
+### Applications
 
-Works on small dataset (not real-world scale)
-Accuracy depends on training data quality
+* Basic fake news detection
+* Works on:
 
+  * Politics news
+  * Science news
+  * Social media rumors
 
-3. TARGET USERS
-a)Students (for learning AI/ML concepts)
-b)Social media users
-c)News readers
-d)Beginners in data science
-e)Teachers for demonstration purposes
+###  Future Enhancements
 
+* Real-time news verification
+* Integration with websites or mobile applications
 
- 4. FEATURES OF THE PROJECT
-🔹 Core Features
-Accepts user input news text
-Classifies news as:
-✅ Real
-❌ Fake
-🔹 Machine Learning Features
-Uses TF-IDF Vectorization
-Uses Multinomial Naive Bayes algorithm
-Trained on multi-domain dataset
-🔹 Data Processing Features
-Converts text to lowercase
-Removes punctuation
-Removes stopwords (like “is”, “the”)
-🔹 Performance Features
-Displays model accuracy
-Handles unseen input data
-Fast prediction
-🔹 User Interaction Features
-Interactive console-based system
-Continuous input until user exits
-Simple and beginner-friendly
+###  Learning Outcomes
+
+* Understanding of **Natural Language Processing (NLP)**
+* Practical implementation of **Machine Learning concepts**
+
+### ⚠ Limitations
+
+* Works on a **small dataset (not real-world scale)**
+* Accuracy depends on **quality and size of training data**
+
+---
+
+##  Target Users
+
+*  Students (learning AI/ML concepts)
+*  Social media users
+*  News readers
+*  Beginners in Data Science
+*  Teachers (for demonstration purposes)
+
+---
+
+##  Features of the Project
+
+### 🔹 Core Features
+
+* Accepts **user input news text**
+* Classifies news as:
+
+  * ✅ Real
+  * ❌ Fake
+
+---
+
+### 🔹 Machine Learning Features
+
+* Uses **TF-IDF Vectorization**
+* Uses **Multinomial Naive Bayes Algorithm**
+* Trained on a **multi-domain dataset**
+
+---
+
+### 🔹 Data Processing Features
+
+* Converts text to **lowercase**
+* Removes **punctuation**
+* Removes **stopwords** (e.g., *is, the, and*)
+
+---
+
+### 🔹 Performance Features
+
+* Displays **model accuracy**
+* Handles **unseen input data**
+* Provides **fast predictions**
+
+---
+
+### 🔹 User Interaction Features
+
+* Interactive **console-based system**
+* Continuous input until user exits
+* Simple and **beginner-friendly interface**
+
+---
+
