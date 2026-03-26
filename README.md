@@ -215,3 +215,9 @@ Give it a star. Keep learning about AI.
 
  
  Free to use and modify for personal 
+
+
+
+ SCREENSHOT OF THE OUTPUT
+
+ <img width="941" height="590" alt="Image" src="https://github.com/user-attachments/assets/7294fb4f-3fd9-44af-84dc-0b74b71635ed" />
